@@ -1,5 +1,5 @@
 .DS_Store
 .vscode
 myvenv/
-.mp4
-.png
+*.mp4
+*.png
